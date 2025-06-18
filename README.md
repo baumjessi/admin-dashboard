@@ -22,3 +22,9 @@ connor - https://www.flaticon.com/free-icon/boy_3884864?term=boy&page=1&position
 cupid - https://www.flaticon.com/free-icon/happy_1818405?term=kitten&page=1&position=26&origin=search&related_id=1818405
 
 search - https://fonts.google.com/icons?selected=Material+Symbols+Outlined:search:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=mag&icon.size=24&icon.color=black
+
+alarm - https://fonts.google.com/icons?selected=Material+Symbols+Outlined:notifications_active:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=alarm&icon.size=24&icon.color=black
+
+bookmark - https://fonts.google.com/icons?selected=Material+Symbols+Outlined:bookmark_add:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=bookmark+add&icon.size=24&icon.color=%2300171F
+
+more - https://fonts.google.com/icons?selected=Material+Symbols+Outlined:more_vert:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=add&icon.size=24&icon.color=%2300171F
