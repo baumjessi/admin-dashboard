@@ -2,7 +2,7 @@
 By Jessi B. for the Odin Project
 
 ## What is this?
-Click for live link! 
+[Click for live link!](https://baumjessi.github.io/admin-dashboard/)
 
 This fake dashboard page is a CSS grid & flexbox practice assignment for the Intermediate HTML & CSS section of the Odin Project. It features simple project cards and simple top & side navigations. The links and search bar are fake. Media queries and responsive design have not yet been covered in Odin, so I did not prioritize scalabilty when completing this project.
 
@@ -24,10 +24,9 @@ I used a variety of media to complete this project. Click each link to see the s
 - [More](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:more_vert:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=add&icon.size=24&icon.color=%2300171F)
 - [Search](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:search:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=mag&icon.size=24&icon.color=black)
 - [Scarlett](https://www.flaticon.com/free-icon/fighter_3850144?term=brown+hair&page=2&position=10&origin=tag&related_id=3850144)
-- [Jessi](https://www.flaticon.com/free-icon/woman_4068746?term=redhead&page=3&position=58&origin=search&related_id=4068746)
+- [Jessi](https://www.flaticon.com/free-icon/fairy_1538652?term=fairy&page=1&position=2&origin=search&related_id=1538652)
 - [Nic](https://www.flaticon.com/free-icon/private-detective_3067572?term=detective&page=1&position=8&origin=search&related_id=3067572)
 - [Quinn](https://www.flaticon.com/free-icon/girl_3981518?term=blonde+girl&page=1&position=11&origin=search&related_id=3981518)
-- [Cupid](https://www.flaticon.com/free-icon/happy_1818405?term=kitten&page=1&position=26&origin=search&related_id=1818405)
-
+- [Cupid](https://www.flaticon.com/free-icon/happy_1818405?term=kitten&page=1&position=26&origin=search&related_id=1818405)\
 ## Found a bug?
 Message me on Discord (@jssi.b) or email me at hellojessib@outlook.com. Thanks! 
